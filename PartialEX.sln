@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialEX", "PartialEX\PartialEX.csproj", "{C22936C5-22EB-4268-B295-98FBB232DAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22936C5-22EB-4268-B295-98FBB232DAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22936C5-22EB-4268-B295-98FBB232DAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22936C5-22EB-4268-B295-98FBB232DAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22936C5-22EB-4268-B295-98FBB232DAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA199392-C118-4758-A90D-D3211C6E5026}
+	EndGlobalSection
+EndGlobal
