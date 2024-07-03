@@ -28,11 +28,13 @@ namespace PartialEX
             master.diaplay();
             master m2= new master();    
             m2.diaplay();
+            var  ans= m2.m2("SP",12);
+            Console.WriteLine(ans);
 
-         Overriding overriding  = new Overriding();
-            overriding.widro();
-            sjdssd sjdssd = new sjdssd();   
-            sjdssd.widro();
+            //Overriding overriding  = new Overriding();
+            //overriding.widro();
+            //sjdssd sjdssd = new sjdssd();   
+            //sjdssd.widro();
 
         }
     }

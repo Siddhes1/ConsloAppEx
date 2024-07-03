@@ -15,5 +15,10 @@ namespace PartialEX
             int c = a + b;
             Console.WriteLine("Addtion=" + c);
         }
+        public int m2<ax,by>( ax s, by b)
+        {
+           return Convert.ToInt32(s) + Convert.ToInt32(b);
+        }
+       
     }
 }
